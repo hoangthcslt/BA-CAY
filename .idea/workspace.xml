@@ -4,15 +4,46 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d072a94-1704-4b39-a5dd-18dc4c8e6add" name="Changes" comment="" />
+    <list default="true" id="9d072a94-1704-4b39-a5dd-18dc4c8e6add" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ba_cay_project_2/BaCayGameApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/ba_cay_project_2/BaCayGameApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ba_cay_project_2/Ba_Cay_Logic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/ba_cay_project_2/Ba_Cay_Logic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ba_cay_project_2/Cards.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/ba_cay_project_2/Cards.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ba_cay_project_2/Deck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/ba_cay_project_2/Deck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ba_cay_project_2/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/ba_cay_project_2/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/anh_nen/nen3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/anh_nen/nen5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/ba_cay_project_2/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/ba_cay_project_2/hello-view.fxml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;hoang-panda&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/hoang-panda/Ba_Cay_Project_2.git&quot;,
+    &quot;accountId&quot;: &quot;95573078-175a-419b-99f8-d69afa34689f&quot;
+  }
+}</component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -20,24 +51,53 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2pYgxIalEDwWZlBbZvcoTKVDVNT" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.BaCayGameApp.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "vcs.Git",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="BaCayGameApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.ba_cay_project_2.BaCayGameApp" />
+      <module name="Ba_Cay_Project_2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.ba_cay_project_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BaCayGameApp" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -54,7 +114,28 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1732948669408</updated>
-      <workItem from="1732948670483" duration="3000" />
+      <workItem from="1732948670483" duration="5690000" />
+      <workItem from="1732974594938" duration="733000" />
+      <workItem from="1732980878311" duration="6796000" />
+      <workItem from="1733032262775" duration="1586000" />
+      <workItem from="1733039062879" duration="65000" />
+      <workItem from="1733111035528" duration="981000" />
+      <workItem from="1733112044136" duration="621000" />
+      <workItem from="1733128057066" duration="3382000" />
+      <workItem from="1733135434153" duration="472000" />
+      <workItem from="1733150542553" duration="866000" />
+      <workItem from="1733154059011" duration="538000" />
+      <workItem from="1733191003820" duration="7902000" />
+      <workItem from="1733213395336" duration="42000" />
+      <workItem from="1733221640415" duration="57000" />
+      <workItem from="1733224122546" duration="75000" />
+      <workItem from="1733240806147" duration="110000" />
+      <workItem from="1733281854696" duration="493000" />
+      <workItem from="1733320688886" duration="3103000" />
+      <workItem from="1733390556798" duration="107000" />
+      <workItem from="1733498935652" duration="78000" />
+      <workItem from="1733535215905" duration="969000" />
+      <workItem from="1733592258148" duration="19000" />
     </task>
     <servers />
   </component>

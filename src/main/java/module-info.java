@@ -10,6 +10,8 @@ module com.example.ba_cay_project_2 {
     requires org.kordamp.bootstrapfx.core;
     requires eu.hansolo.tilesfx;
     requires com.almasb.fxgl.all;
+    requires jdk.jfr;
+    requires javafx.media;
 
     opens com.example.ba_cay_project_2 to javafx.fxml;
     exports com.example.ba_cay_project_2;
